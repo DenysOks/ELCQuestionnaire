@@ -5,5 +5,5 @@ Automation script exmple.
 <br />
 Install npm using `$ sudo apt-get install npm`<br />
 Update npm to latest version if nessesary `$ npm install npm@latest -g`<br />
-Install TestCafe `$ sudo npm i -g testcafe`<br />
+Install TestCafe `$ npm install testcafe`<br />
 Go to repository folder and run `$ testcafe`<br />
